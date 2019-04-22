@@ -1,0 +1,28 @@
+# Site settings
+title: Michelin Munchies
+email: [first initial][last name]@[college].[university tld]
+description: >-
+  The life and times of Jackson Kearl.
+  Posts on my thoughts experiences regarding:: travel, food, biking, etc.
+baseurl: ""
+url: "https://michelinmunchies.com"
+twitter_username: JacksonKearl
+github_username:  jacksonkearl
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
