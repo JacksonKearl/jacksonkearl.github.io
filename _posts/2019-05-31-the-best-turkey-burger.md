@@ -5,7 +5,9 @@ date:   2019-05-31
 collection: cooking
 ---
 
-This is a damn good burger. Not much more to say than that. The main technique of interest here is the folding of the miso into the burger, as that creates nice little pockets of miso, whereas a more standard mixing approach would distribute it evenly. This was actually unintentional, I really was just trying to not get my hands all turkey-d up.
+This is a damn good burger. Not much more to say than that, though it dues use an interesting folding technique.
+
+The main technique of interest here is the folding of the miso into the burger, as that creates nice little pockets of miso, whereas a more standard mixing approach would distribute it evenly. This was actually unintentional, I really was just trying to not get my hands all turkey-d up.
 
 Anyways, heres the recipe (all measurements are simply guidelines, and a rough estimate of what I used. Go crazy when you make for yourself):
 - 1/4 lb ground turkey
