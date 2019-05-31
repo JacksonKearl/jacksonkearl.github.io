@@ -5,21 +5,21 @@ date:   2019-05-31
 collection: cooking
 ---
 
-This is a damn good burger. Not much more to say than that, though it dues use an interesting folding technique.
+This is a damn good burger. Not much more to say than that, though it does use an interesting folding technique.
 
 The main technique of interest here is the folding of the miso into the burger, as that creates nice little pockets of miso, whereas a more standard mixing approach would distribute it evenly. This was actually unintentional, I really was just trying to not get my hands all turkey-d up.
 
-Anyways, heres the recipe (all measurements are simply guidelines, and a rough estimate of what I used. Go crazy when you make for yourself):
+Anyways, here's the recipe (all measurements are simply guidelines, and a rough estimate of what I used. Go crazy when you make this for yourself):
 - 1/4 lb ground turkey
 - 1 tbsp miso
 - sauerkraut (to taste)
-- salt, pepper, cayene (to taste)
+- salt, pepper, cayenne (to taste)
 - some sort of cheese (optional, I used Parmesan)
 - mustard (optional, I used a horseradish variant)
-- hanburger buns
+- hamburger buns
 
-1. Use the side of a large knife to spread the turkey into a thin (approx 1/2 cm) rectangular layer on a cutting board. Apply a generous portion of the salt, pepper, and cayene across the entire surface of the layer. Spread the miso out on top of the layer.
-1. Begin to fold the layer into itself. Protect your hands from turkey by using your knife to get up under the meat and pull it up. I used the standard croissont technique of folding into thirds, then spreading it out a bit, then folding into thirds again.
+1. Use the side of a large knife to spread the turkey into a thin (approx 1/2 cm) rectangular layer on a cutting board. Apply a generous portion of the salt, pepper, and cayenne across the entire surface of the layer. Spread the miso out on top of the layer.
+1. Begin to fold the layer into itself. Protect your hands from turkey by using your knife to get up under the meat and pull it up. I used the standard croissant technique of folding into thirds, then spreading it out a bit, then folding into thirds again.
 1. Cook in an oiled pan, high heat, a few minutes per side. I used this time to mix [a drink](https://www.youtube.com/watch?v=21FYGS5YZUg).
 1. Part way through the cooking process, throw on the buns to get a nice toasting on them and add the cheese to the burgers.
 1. Finish by assembling the burger and topping with sauerkraut.
