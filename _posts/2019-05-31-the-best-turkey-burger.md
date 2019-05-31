@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to make the best burger I've ever consumed. Contains turkey and miso."
+title:  "Making a damn good turkey and miso burger."
 date:   2019-05-31
 collection: cooking
 ---
