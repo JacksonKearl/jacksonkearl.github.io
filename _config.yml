@@ -10,8 +10,7 @@ url: "https://michelinmunchies.com"
 twitter_username: JacksonKearl
 github_username:  jacksonkearl
 
-disqus:
-  shortname: michelinmunchies
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
