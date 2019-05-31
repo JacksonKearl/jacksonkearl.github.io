@@ -1,7 +1,7 @@
 # Site settings
 title: Michelin Munchies
 author: Jackson Kearl
-email: jkearl@mit.edu
+email: MichelinMunchies@mit.edu
 description: >-
   Delicious tidbits of the Jackson Kearl lifestyle.
   Posts on my thoughts and experiences regarding travel, food, code, etc.
@@ -9,6 +9,9 @@ baseurl: ""
 url: "https://michelinmunchies.com"
 twitter_username: JacksonKearl
 github_username:  jacksonkearl
+
+disqus:
+  shortname: michelinmunchies
 
 # Build settings
 markdown: kramdown
