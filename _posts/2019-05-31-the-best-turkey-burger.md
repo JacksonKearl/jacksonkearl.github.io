@@ -24,4 +24,7 @@ Anyways, heres the recipe (all measurements are simply guidelines, and a rough e
 
 Variation: fold the cheese in as well. I usually do this, but I forgot this time.
 
+Variation: when I first made this, I cooked it a bit raw in the middle. This was a wonderful experience. If you're one for culinary risks, I strongly recommend.
+
+
 Tasting notes: Mine was very miso-forward, which I enjoyed. The sauerkraut came through a bit, I might go with a thinker layer next time. Mustard and cheese were pretty much lost. Consider going with a heavy hand on those, or just leaving them out entirely.
